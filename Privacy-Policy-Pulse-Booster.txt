@@ -1,0 +1,18 @@
+Privacy Policy para Pulse Booster
+
+Última actualización: 19/01/2026
+
+Esta app accede a tu perfil de LinkedIn para publicar contenido en tu nombre con tu consentimiento explícito.
+
+Datos recolectados:
+- Solo tu access token temporal de LinkedIn (no se almacena).
+- No recolecto datos adicionales.
+
+Uso de datos:
+- Solo para publicar posts en tu cuenta de LinkedIn.
+
+Tus derechos:
+- Puedes revocar el acceso en LinkedIn Settings > Authorized apps.
+- Contacto: tu-email@ejemplo.com
+
+Cumplo con la política de LinkedIn y GDPR si aplica.
